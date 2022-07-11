@@ -1371,7 +1371,7 @@ function library:SetTheme(theme)
 end
 
 function library:GetThemes()
-    local themes = {"Default", "inversion.cc"}
+    local themes = {"Default", "Midnight"}
 
     local folderpath = string.format("%s//themes", self.folder)
 
