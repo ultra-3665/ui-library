@@ -1111,7 +1111,7 @@ local themes = {
         ["Dropdown Option Background"] = Color3.fromRGB(19, 19, 19)
     },
 
-    inversion.cc = {
+    Midnight = {
         ["Accent"] = Color3.fromRGB(0, 119, 192),
         ["Window Background"] = Color3.fromRGB(23, 23, 23),
         ["Window Border"] = Color3.fromRGB(45, 45, 49),
